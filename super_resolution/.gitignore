@@ -1,0 +1,8 @@
+# dataset
+dataset/
+
+# checkpoints
+*.pth
+
+# output image
+out.png
